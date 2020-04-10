@@ -1,5 +1,3 @@
-# LeviSands.com
+# ldsands.github.io
 
-The repository to my personal website and blog
-
-I used the [Academic Hugo Blog kickstarter repository](https://github.com/sourcethemes/academic-kickstart) as a starting point.
+This is the repo for my personal website it was built using Hugo and the Academic Theme. I also forked [another persons repo](https://mragsac.github.io/) that they had modified as a starting point.
