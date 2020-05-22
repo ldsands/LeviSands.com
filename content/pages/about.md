@@ -1,7 +1,7 @@
 ---
 title: About
 layout: post
-comments: true
+comments: false
 tags: About
 description:
 ---

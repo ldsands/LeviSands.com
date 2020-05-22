@@ -1,13 +1,13 @@
 ---
 title: The Best Linter for Black in VS Code
-tags: blog-o-matic
-layout: post
-comments: true
 category: Programming
 tags: Python, Visual Studio Code, Linter
-lang: en
 author: Levi Sands
 summary: How to get black to work well with a linter in Visual Studio Code
+layout: post
+date: 2020-03-20 12:30:00 +0500
+comments: true
+lang: en
 ---
 
 <!-- # date: YYYY-MM-DD HH:MM:SS +0500
