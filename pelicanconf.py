@@ -87,8 +87,8 @@ SOCIAL = (
 GOOGLE_ANALYTICS = "233615342"
 
 ## Configure if you use Disqus for comments
-# DISQUS_SITENAME = "iranzo-github-io"
-# DISQUS_DISPLAY_COUNTS = True
+DISQUS_SITENAME = "ldsands-github-io"
+DISQUS_DISPLAY_COUNTS = True
 
 
 # Extra files customization
