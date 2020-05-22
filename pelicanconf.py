@@ -94,10 +94,6 @@ GOOGLE_ANALYTICS = "233615342"
 # Extra files customization
 EXTRA_PATH_METADATA = {}
 
-# EXTRA_TEMPLATES_PATHS = [
-#     "plugins/revealmd/templates",  # eg: "plugins/revealmd/templates"
-# ]
-
 THEME_TEMPLATES_OVERRIDES = [
     "plugins/revealmd/templates",  # eg: "plugins/revealmd/templates"
 ]
