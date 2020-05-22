@@ -1,5 +1,6 @@
 ---
 date: 2020-03-20 12:30:00 +0500
+modified: 2020-05-22 14:19:00 +0500
 title: The Best Linter for Black in VS Code
 summary: How to get black to work well with a linter in Visual Studio Code
 category: Programming
@@ -10,13 +11,19 @@ comments: true
 lang: en
 ---
 
+[TOC]
+
 ![black logo image]({static}../images/articles/black_logo.png)
 
 Forgive the clickbait title. The truth is that any linter can be configured to work well with Black. So any linter when properly configured will be the "best" linter for Black on VS Code. But before I give you the settings for the linter I configured a bit of background.
 
+## Black and Python Formatting
+
 When I discovered automatic code formatting last year, I immediately started using it. I quickly found that [Black](https://black.readthedocs.io/en/stable/) is by far my favorite of these formatters. The options that come with Black are very limited. The developers do this on purpose, to limit the variety in the different coding styles that might exist between individuals.
 
 Standardizing everything will be useful in a large group of programmers. I use it partly because I see many styles for formatting when looking for help on the internet. My style developed into this amalgamation of what I had seen on the internet. After adopting Black for all of my code, I would frequently run across errors with the linter (all of them) on VS Code. This was annoying and nothing more. It was however annoying enough for me to track down what I could do to solve it.
+
+## Finding a Linter That Works
 
 After doing some searching I found some instructions on what configurations are need for flake8 to be compatible with Black. While I type my code, I will follow the recommendations of the linter I use. However, when I format the document using Black, many little errors will come up. After tracking down the configurations need to ignore this issue, I entered them into VS Code so I don't have this issue anymore.
 

@@ -227,9 +227,9 @@ PAGE_SAVE_AS = "{slug}/index.html"
 
 AUTHORS = {
     "Levi Sands": {
-        "url": "https://www.oncrashreboot.com/",
+        "url": "https://ldsands.github.io/about",
         "blurb": "PhD Candidate in Sociology at the University of Iowa",
-        "avatar": "/images/Levi-Sands.jpg",
+        "avatar": "/images/Levi_Sands_cropped_square.jpg",
     },
 }
 

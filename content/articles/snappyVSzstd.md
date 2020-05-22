@@ -16,7 +16,11 @@ imageMeta:
   attributionLink: https://cdn.pixabay.com/photo/2015/02/04/20/31/stress-624220_960_720.jpg
 -->
 
-I am working on a project that has a lot of data. In the process of extracting from its original bz2 compression I decided to put them all into parquet files due to its availability and ease of use in other languages as well as being just able to do everything I need of it. 
+[TOC]
+
+![https://cdn.pixabay.com/photo/2015/02/04/20/31/stress-624220_960_720.jpg]({static}../images/articles/black_logo.png)
+
+I am working on a project that has a lot of data. In the process of extracting from its original bz2 compression I decided to put them all into parquet files due to its availability and ease of use in other languages as well as being just able to do everything I need of it.
 
 By default pandas and dask output their parquet using snappy for compression. This uses about twice the amount of space as the bz2 files did but can be read thousands of times faster so much easier for data analysis. I recently became aware of zstandard which promises smaller sizes but similar read speeds as snappy.
 

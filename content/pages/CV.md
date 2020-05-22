@@ -5,37 +5,42 @@ comments: false
 tags: Curriculum Vitae
 ---
 
-<div align="center">
+[TOC]
 
-Department of Sociology and Criminology $\bullet$ University of Iowa
+## Levi Sands
 
-W24 Seashore Hall $\bullet$ Iowa City, Iowa 52242 $\bullet$ levi-sands@uiowa.edu
+Department of Sociology and Criminology
 
-[Personal Website](https://ldsands.github.io/) $\bullet$ [Linkedin](https://www.linkedin.com/in/levi-sands-15939588/)
+University of Iowa
 
-</div>
+W24 Seashore Hall
+
+Iowa City, Iowa 52242
+
+levi-sands@uiowa.edu
+
+[Personal Website](https://ldsands.github.io/)
+
+[Linkedin](https://www.linkedin.com/in/levi-sands-15939588/)
 
 Updated March 2020
 
 ## Education
 
-**Ph.D., University of Iowa**
+### Ph.D., University of Iowa
 
-_Sociology, Expected 2022_
+- Sociology, Expected 2022
+- Comprehensive Exams: Political Sociology Expected 2019, Medical Sociology Expected 2020
 
-Comprehensive Exams: Political Sociology Expected 2019, Medical Sociology Expected 2020
+### M.A., University of Iowa
 
-**M.A., University of Iowa**
+- Sociology, 2019
+- Thesis: "_Childhood Toxic Stress and Allostatic Load_"
+- Committee: Mark Berg (Chair), Ion Vasi, and Yongren Shi
 
-_Sociology, 2019_
+### B.A., Utah State University
 
-Thesis: "_Childhood Toxic Stress and Allostatic Load_"
-
-Committee: Mark Berg (Chair), Ion Vasi, and Yongren Shi
-
-**B.A., Utah State University**
-
-_Sociology, 2015_
+- Sociology, 2015
 
 ## TEACHING AND RESEARCH INTERESTS
 
@@ -43,7 +48,7 @@ Medical Sociology, Social Movements, Social Networks, Social Psychology, Computa
 
 ## ACADEMIC EMPLOYMENT
 
-**Graduate Teaching Assistant**
+### Graduate Teaching Assistant
 
 Department of Sociology and Criminology, University of Iowa, 2016-Present
 
@@ -87,19 +92,25 @@ Introduction to Sociology: The Social Determinants of Health; Fall 2017
 
 ### Software Proficiencies
 
-Python, R, Stata, LaTeX, C#, F#, Powershell, Markdown, Pandoc, Github, Mplus, Qualtrics, Microsoft Office
+Python, R, Stata, LaTeX, C#, Powershell, Bash/zsh, Windows, Linux, Markdown, Pandoc, Git/Github, Mplus, Qualtrics, Microsoft Office
 
 ### Languages
 
-English (Native)
-
-Spanish (Limited working proficiency)
+- English (Native)
+- Spanish (Limited working proficiency)
 
 ## PROFESSIONALS MEMBERSHIP & SERVICE
 
 ### Professional Memberships
 
-American Sociological Association, Sections: Medical Sociology, Social Movements, Political Sociology
+#### American Sociological Association
+
+- Sections:
+    - Medical Sociology
+    - Social Movements
+    - Sociology of Religion
+
+#### Mormon Social Science Association
 
 ### Departmental Service
 
