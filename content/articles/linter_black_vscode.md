@@ -15,7 +15,7 @@ author: Levi Sands
 summary: How to get black to work well with a linter in Visual Studio Code
 ---
 
-![Compression Issues]({photo}content/../images/Levi-Sands.jpg)
+<!-- ![Compression Issues]({photo}content/../images/Levi-Sands.jpg)
 
 Compression Issues photo content/../images/Levi-Sands.jpg
 
@@ -29,29 +29,29 @@ Levi with the images folder photo images/Levi-Sands.jpg
 
 ![Levi without images folder]({photo}Levi-Sands.jpg)
 
-Levi without images folder photo Levi-Sands.jpg
+Levi without images folder photo Levi-Sands.jpg -->
 
 ## Black Image Testing
 
-![Compression Issues]({photo}images/articles/black_logo.png)
+<!-- ![black logo image]({photo}images/articles/black_logo.png)
 
-Compression Issues photo images/articles/black_logo.png
+black logo image photo images/articles/black_logo.png
 
-![Compression Issues]({photo}articles/black_logo.png)
+![black logo image]({photo}articles/black_logo.png)
 
-Compression Issues photo articles/black_logo.png
+black logo image photo articles/black_logo.png -->
 
-![Compression Issues]({static}articles/black_logo.png)
+![black logo image]({static}articles/black_logo.png)
 
-Compression Issues static articles/black_logo.png
+black logo image static articles/black_logo.png
 
-![Compression Issues]({attach}articles/black_logo.png)
+![black logo image]({attach}articles/black_logo.png)
 
-Compression Issues attach articles/black_logo.png
+black logo image attach articles/black_logo.png
 
-![Levi with the images folder]({photo}content/images/articles/black_logo.png)
+<!-- ![Levi with the images folder]({photo}content/images/articles/black_logo.png)
 
-Levi with the images folder photo images/content/images/articles/black_logo.png
+Levi with the images folder photo images/content/images/articles/black_logo.png -->
 
 ## Me
 
