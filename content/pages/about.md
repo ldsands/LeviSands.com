@@ -5,22 +5,20 @@ comments: false
 tags: About
 description:
 ---
-<!-- date: 2020-01-02 15:35:00 +0500 -->
 
-![black logo image]({static}articles/black_logo.png)
-static - articles/black_logo.png
+Hi I'm Levi Sands. I'm currently a PhD Student in Sociology at the University of Iowa
 
-![black logo image]({static}content/../../images/articles/black_logo.png)
-static - articles/black_logo.png
+If you would like to contact me through the address below:
 
-![black logo image]({static}../images/articles/black_logo.png)
-static - ../images/articles/black_logo.png
+Levi Sands, M.A.
+Graduate Research and Teaching Assistant
+Department of Sociology and Criminology
+West 24 Seashore Hall
+University of Iowa
+Iowa City, IA 52242
 
-![black logo image]({static}/../images/articles/black_logo.png)
-static - /../images/articles/black_logo.png
+Feel free to email me as well at: [levi-sands@uiowa.edu](levi-sands@uiowa.edu)
 
-PhD Student in Sociology at the University of Iowa
-
-If you enjoy any of my projects feel free to donate at <https://paypal.me/ldsands>
+If you enjoy any of my projects feel free to donate at [PayPal](https://paypal.me/ldsands)
 
 Enjoy it!
