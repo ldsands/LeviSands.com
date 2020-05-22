@@ -11,12 +11,6 @@ description:
 
 black logo image static articles/black_logo.png
 
-![black logo image]({attach}articles/black_logo.png)
-
-black logo image attach articles/black_logo.png
-
-
-
 PhD Student in Sociology at the University of Iowa
 
 If you enjoy any of my projects feel free to donate at <https://paypal.me/ldsands>
