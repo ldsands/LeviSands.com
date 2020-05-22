@@ -1,18 +1,21 @@
 title: About
 layout: post
-date: 2016-06-02 17:27:47 +0200
+<!-- date: 2020-01-02 15:35:00 +0500 -->
 comments: true
 tags: About
 description:
 
 # Levi Sands
 
-![Compression Issues]({photo}articles/stress-apple.jpg)
-Compression Issues photo articles/stress-apple.jpg
-![Levi with the images folder]({photo}images/Levi-Sands.jpg)
-Levi with the images folder photo images/Levi-Sands.jpg
-![Levi without images folder]({photo}Levi-Sands.jpg)
-Levi without images folder photo Levi-Sands.jpg
+![black logo image]({static}articles/black_logo.png)
+
+black logo image static articles/black_logo.png
+
+![black logo image]({attach}articles/black_logo.png)
+
+black logo image attach articles/black_logo.png
+
+
 
 PhD Student in Sociology at the University of Iowa
 
