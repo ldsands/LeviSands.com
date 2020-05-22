@@ -3,7 +3,7 @@ title: The Best Linter for Black in VS Code
 tags: blog-o-matic
 layout: post
 # date: YYYY-MM-DD HH:SS
-date: 2020-03-20 12:00
+# date: 2020-03-20 12:00
 # modified: YYYY-MM-DD HH:SS
 comments: true
 category: Programming

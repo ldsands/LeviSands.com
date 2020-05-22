@@ -102,7 +102,8 @@ USE_SHORTCUT_ICONS = True
 STATIC_PATHS = ["theme/images", "images"]
 
 # Photo Gallery plugin
-PHOTO_LIBRARY = "images/"
+PHOTO_LIBRARY = "gallery-library/"
+# PHOTO_LIBRARY = "images/"
 PHOTO_GALLERY = (1024, 768, 80)
 PHOTO_ARTICLE = (760, 506, 80)
 PHOTO_THUMB = (192, 144, 60)
