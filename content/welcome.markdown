@@ -9,12 +9,17 @@ description:
 lang: en
 ---
 
-# Welcome to my blog!
+# Levi Sands
 
-If you're seeing this, my new blog based on [blog-o-matic](https://github.com/iranzo/blog-o-matic) has been correctly setup and published to Git Hub Pages.
+![Compression Issues]({photo}articles/stress-apple.jpg)
+Compression Issues photo articles/stress-apple.jpg
+![Levi with the images folder]({photo}images/Levi-Sands.jpg)
+Levi with the images folder photo images/Levi-Sands.jpg
+![Levi without images folder]({photo}Levi-Sands.jpg)
+Levi without images folder photo Levi-Sands.jpg
 
-Check author's webpage at <https://iranzo.github.io> for more information about blog-o-matic and other resources so that you can create your own!
+PhD Student in Sociology at the University of Iowa
 
-You can thank him for it via <https://paypal.me/iranzop>
+If you enjoy any of my projects feel free to donate at <https://paypal.me/ldsands>
 
 Enjoy it!

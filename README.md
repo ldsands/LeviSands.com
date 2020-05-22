@@ -4,15 +4,15 @@
 <!-- TOC depthFrom:2 insertAnchor:true orderedList:true updateOnSave:true -->
 
 - [blog-o-matic by Pablo Iranzo](#blog-o-matic-by-pablo-iranzo)
-  - [Introduction](#introduction)
-  - [Setup](#setup)
-  - [Test it](#test-it)
-  - [Add file to repository](#add-file-to-repository)
-  - [Add file to commit](#add-file-to-commit)
-  - [Upload changes to github](#upload-changes-to-github)
-  - [WARNING](#warning)
-  - [Going the extra mile](#going-the-extra-mile)
-  - [Feedback and wrap up](#feedback-and-wrap-up)
+    - [Introduction](#introduction)
+    - [Setup](#setup)
+    - [Test it](#test-it)
+    - [Add file to repository](#add-file-to-repository)
+    - [Add file to commit](#add-file-to-commit)
+    - [Upload changes to github](#upload-changes-to-github)
+    - [WARNING](#warning)
+    - [Going the extra mile](#going-the-extra-mile)
+    - [Feedback and wrap up](#feedback-and-wrap-up)
 
 <!-- /TOC -->
 
@@ -84,29 +84,32 @@ git push
 After some seconds, <https://travis-ci.org> will start showing that a new build is in progress, and once it finishes successfully, the resulting webpage will be available via your `username.github.io` domain.
 
 <a id="markdown-warning" name="warning"></a>
+
 ## WARNING
 
 - `peru.yaml` is set to use `next` branch of Elegant theme for pelican, as this setup uses pelican 4.0 and current 'master' doesn't work for it (feed slugs related)
-  - Remember to update the file or check master blog-o-matic from time to time to see when you should update it <https://github.com/iranzo/blog-o-matic/issues/1>
+    - Remember to update the file or check master blog-o-matic from time to time to see when you should update it <https://github.com/iranzo/blog-o-matic/issues/1>
 
 <a id="markdown-going-the-extra-mile" name="going-the-extra-mile"></a>
+
 ## Going the extra mile
 
 - Elegant does generate a sitemap to submit to web crawlers to ease indexing
-  - `YOURURL/sitemap.xml` can be submitted
-  - [Google Search Console](https://search.google.com/search-console/)
-    - Will require you to claim the website as yours, for doing so:
-      - Check HEADER method
-      - customize `pelicanconf.py` to match the value you received, in the line that says:
-        - `CLAIM_GOOGLE = 'XX'`
-  - [Bing Webmaster](https://www.bing.com/webmaster/)
-      - Check HEADER method
-      - customize `pelicanconf.py` to match the value you received, in the line that says:
-        - `CLAIM_BING = 'XX'`
+    - `YOURURL/sitemap.xml` can be submitted
+    - [Google Search Console](https://search.google.com/search-console/)
+        - Will require you to claim the website as yours, for doing so:
+            - Check HEADER method
+            - customize `pelicanconf.py` to match the value you received, in the line that says:
+                - `CLAIM_GOOGLE = 'XX'`
+    - [Bing Webmaster](https://www.bing.com/webmaster/)
+        - Check HEADER method
+        - customize `pelicanconf.py` to match the value you received, in the line that says:
+            - `CLAIM_BING = 'XX'`
 - Review other settings in `pelicanconf.py` to customize your blog name, your name, twitter handle, google analytics ID or others, please do check [Pelican-Elegant documentation](https://pelican-elegant.github.io) for more information on what can be done.
 - Check <https://iranzo.github.io/tags/#blog-o-matic-ref> for more articles related with blog-o-matic published in my personal blog.
 
 <a id="markdown-feedback-and-wrap-up" name="feedback-and-wrap-up"></a>
+
 ## Feedback and wrap up
 
 - For saying thanks: <https://paypal.me/iranzop>
