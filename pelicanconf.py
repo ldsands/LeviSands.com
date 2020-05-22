@@ -12,8 +12,8 @@ SITESUBTITLE = "Personal Blog Website"
 SITEURL = "/"
 DEFAULT_LANG = "en"
 DEFAULT_CATEGORY = "blog"
-CLAIM_GOOGLE = "oL6Jp_KkQs_3edr0qL0hGozJMZpO4TIdEnGGwhs7TOg"
-# CLAIM_GOOGLE = "google-site-verification=oL6Jp_KkQs_3edr0qL0hGozJMZpO4TIdEnGGwhs7TOg"
+# CLAIM_GOOGLE = "oL6Jp_KkQs_3edr0qL0hGozJMZpO4TIdEnGGwhs7TOg"
+CLAIM_GOOGLE = "google-site-verification=oL6Jp_KkQs_3edr0qL0hGozJMZpO4TIdEnGGwhs7TOg"
 CLAIM_BING = "9B15C0BB70D67916C8D0F36B66E81C40"
 
 
@@ -83,6 +83,7 @@ SOCIAL = (
 
 # GOOGLE_ANALYTICS tracking ID
 # GOOGLE_ANALYTICS = "UA-81705-12"
+GOOGLE_ANALYTICS = "233615342"
 
 ## Configure if you use Disqus for comments
 # DISQUS_SITENAME = "iranzo-github-io"
@@ -96,7 +97,9 @@ EXTRA_TEMPLATES_PATHS = [
     "plugins/revealmd/templates",  # eg: "plugins/revealmd/templates"
 ]
 
-STATIC_PATHS = ["images"]
+USE_SHORTCUT_ICONS = True
+
+STATIC_PATHS = ["theme/images", "images"]
 
 # Photo Gallery plugin
 PHOTO_LIBRARY = "gallery-source/"
@@ -220,6 +223,25 @@ TAG_SAVE_AS = "blog/tag/{slug}/index.html"
 
 PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
+
+"""
+AUTHORS = {
+    "Levi Sands": {
+        "url": "https://www.oncrashreboot.com/",
+        "blurb": "is the creator and lead developer of Elegant theme.",
+        "avatar": "/images/avatars/talha131.png",
+    },
+    "Pablo Iranzo Gómez": {
+        "url": "http://iranzo.github.io",
+        "blurb": " opensource enthusiast and Lego fan doing some python simple programs like @redken_bot in telegram, etc",
+        "avatar": "https://avatars.githubusercontent.com/u/312463",
+    },
+    "Jack De Winter": {
+        "url": "http://jackdewinter.github.io",
+        "blurb": "ever evolving, ever learning",
+    },
+}
+"""
 
 AUTHOR_SAVE_AS = ""
 AUTHORS_SAVE_AS = ""

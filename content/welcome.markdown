@@ -1,22 +1,47 @@
 ---
-title: Welcome to my blog
+title: The Best Linter for Black in VS Code
 tags: blog-o-matic
 layout: post
-date: 2019-01-08 19:26:00 +0100
+# date: YYYY-MM-DD HH:SS
+date: 2020-03-20
+# modified: YYYY-MM-DD HH:SS
 comments: true
-category: blog
-description:
+category: Programming
+tags: Python, Visual Studio Code, Linter
+# description: Not sure if this works
 lang: en
+author: Levi Sands
+# authors: Levi Sands, Julie Sands
+summary: How to get black to work well with a linter in Visual Studio Code
 ---
 
-# Levi Sands
+![Compression Issues]({photo}content/../images/Levi-Sands.jpg)
 
-![Compression Issues]({photo}articles/stress-apple.jpg)
-Compression Issues photo articles/stress-apple.jpg
+Compression Issues photo content/../images/Levi-Sands.jpg
+
+![Compression Issues]({photo}content/images/Levi-Sands.jpg)
+
+Compression Issues photo content/../images/Levi-Sands.jpg/Levi-Sands.jpg
+
 ![Levi with the images folder]({photo}images/Levi-Sands.jpg)
+
 Levi with the images folder photo images/Levi-Sands.jpg
+
 ![Levi without images folder]({photo}Levi-Sands.jpg)
+
 Levi without images folder photo Levi-Sands.jpg
+
+## Black Image Testing
+
+![Compression Issues]({photo}images/articles/black_logo.png)
+
+Compression Issues photo images/articles/black_logo.png
+
+![Levi with the images folder]({photo}content/images/articles/black_logo.png)
+
+Levi with the images folder photo images/content/images/articles/black_logo.png
+
+## Me
 
 PhD Student in Sociology at the University of Iowa
 
