@@ -73,6 +73,7 @@ SOCIAL = (
     ("Twitter", "https://twitter.com/ldsands"),
     ("github", "http://github.com/ldsands"),
     ("linkedin", "https://www.linkedin.com/in/levi-sands-15939588/"),
+    ("RSS", "https://ldsands.github.io/feeds/all.rss"),
     ("cc-paypal", "paypal.me/ldsands"),
 )
 
@@ -224,24 +225,13 @@ TAG_SAVE_AS = "blog/tag/{slug}/index.html"
 PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
 
-"""
 AUTHORS = {
     "Levi Sands": {
         "url": "https://www.oncrashreboot.com/",
-        "blurb": "is the creator and lead developer of Elegant theme.",
-        "avatar": "/images/avatars/talha131.png",
-    },
-    "Pablo Iranzo Gómez": {
-        "url": "http://iranzo.github.io",
-        "blurb": " opensource enthusiast and Lego fan doing some python simple programs like @redken_bot in telegram, etc",
-        "avatar": "https://avatars.githubusercontent.com/u/312463",
-    },
-    "Jack De Winter": {
-        "url": "http://jackdewinter.github.io",
-        "blurb": "ever evolving, ever learning",
+        "blurb": "PhD Candidate in Sociology at the University of Iowa",
+        "avatar": "/images/Levi-Sands.jpg",
     },
 }
-"""
 
 AUTHOR_SAVE_AS = ""
 AUTHORS_SAVE_AS = ""

@@ -1,13 +1,14 @@
 ---
+date: 2019-12-15 07:25:54 +0500
 title: About Page
 layout: post
 lang: en
 author: Levi Sands
 ---
 
-## Contact Information
+Hi I'm [Levi Sands](https://clas.uiowa.edu/sociology/people/levi-sands). I'm currently a PhD Student in the [Department of Sociology and Criminology](https://clas.uiowa.edu/sociology/) at the University of Iowa
 
-Hi I'm Levi Sands. I'm currently a PhD Student in Sociology at the University of Iowa
+My research interests are primarily in the areas of medical sociology, social movements and big data analysis.
 
 Feel free to email me at: [levi-sands@uiowa.edu](levi-sands@uiowa.edu)
 
