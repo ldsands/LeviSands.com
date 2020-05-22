@@ -8,7 +8,6 @@ date: 2020-03-20 12:00
 comments: true
 category: Programming
 tags: Python, Visual Studio Code, Linter
-gallery: {filename}../gallery-source/dragondance
 # description: Not sure if this works
 lang: en
 author: Levi Sands
