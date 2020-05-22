@@ -1,11 +1,11 @@
+---
 title: About
 layout: post
-<!-- date: 2020-01-02 15:35:00 +0500 -->
 comments: true
 tags: About
 description:
-
-# Levi Sands
+---
+<!-- date: 2020-01-02 15:35:00 +0500 -->
 
 ![black logo image]({static}articles/black_logo.png)
 

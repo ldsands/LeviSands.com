@@ -1,18 +1,9 @@
 ---
-title: About Me
-# tags: blog-o-matic
+title: About Page
 layout: post
-# date: YYYY-MM-DD HH:SS
-# date: 2020-03-20 12:00
-# modified: YYYY-MM-DD HH:SS
-# comments: true
-# category: Programming
-# tags: Python, Visual Studio Code, Linter
-# description: Not sure if this works
+date: 2020-01-02 15:35:00 +0500
 lang: en
 author: Levi Sands
-# authors: Levi Sands, Julie Sands
-# summary: How to get black to work well with a linter in Visual Studio Code
 ---
 
 ## Me
