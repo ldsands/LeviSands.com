@@ -16,36 +16,21 @@ author: Levi Sands
 summary: How to get black to work well with a linter in Visual Studio Code
 ---
 
-![Compression Issues]({photo}content/../images/Levi-Sands.jpg)
-
-Compression Issues photo content/../images/Levi-Sands.jpg
-
-![Compression Issues]({photo}content/images/Levi-Sands.jpg)
-
-Compression Issues photo content/../images/Levi-Sands.jpg/Levi-Sands.jpg
-
-![Levi with the images folder]({photo}images/Levi-Sands.jpg)
-
-Levi with the images folder photo images/Levi-Sands.jpg
-
-![Levi without images folder]({photo}Levi-Sands.jpg)
-
-Levi without images folder photo Levi-Sands.jpg
-
-## Black Image Testing
-
-![Compression Issues]({photo}images/articles/black_logo.png)
-
-Compression Issues photo images/articles/black_logo.png
-
-![Levi with the images folder]({photo}content/images/articles/black_logo.png)
-
-Levi with the images folder photo images/content/images/articles/black_logo.png
-
 ## Me
 
-PhD Student in Sociology at the University of Iowa
+Hi I'm Levi Sands. I'm currently a PhD Student in Sociology at the University of Iowa
 
-If you enjoy any of my projects feel free to donate at <https://paypal.me/ldsands>
+If you would like to contact me through the address below:
+
+Levi Sands, M.A.
+Graduate Research and Teaching Assistant
+Department of Sociology and Criminology
+West 24 Seashore Hall
+University of Iowa
+Iowa City, IA 52242
+
+Feel free to email me as well at: [levi-sands@uiowa.edu](levi-sands@uiowa.edu)
+
+If you enjoy any of my projects feel free to donate at [PayPal](https://paypal.me/ldsands)
 
 Enjoy it!

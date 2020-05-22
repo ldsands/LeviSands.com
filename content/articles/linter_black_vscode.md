@@ -37,6 +37,18 @@ Levi without images folder photo Levi-Sands.jpg
 
 Compression Issues photo images/articles/black_logo.png
 
+![Compression Issues]({photo}articles/black_logo.png)
+
+Compression Issues photo articles/black_logo.png
+
+![Compression Issues]({static}articles/black_logo.png)
+
+Compression Issues static articles/black_logo.png
+
+![Compression Issues]({attach}articles/black_logo.png)
+
+Compression Issues attach articles/black_logo.png
+
 ![Levi with the images folder]({photo}content/images/articles/black_logo.png)
 
 Levi with the images folder photo images/content/images/articles/black_logo.png
