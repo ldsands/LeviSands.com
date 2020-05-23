@@ -229,7 +229,7 @@ AUTHORS = {
     "Levi Sands": {
         "url": "https://ldsands.github.io/about",
         "blurb": "PhD Candidate in Sociology at the University of Iowa",
-        # "avatar": "/images/Levi_Sands_cropped_square.jpg", TODO:
+        "avatar": "/images/Levi_Sands_cropped_square.jpg",
     },
 }
 
