@@ -73,8 +73,8 @@ SOCIAL = (
     ("Twitter", "https://twitter.com/ldsands"),
     ("github", "http://github.com/ldsands"),
     ("linkedin", "https://www.linkedin.com/in/levi-sands-15939588/"),
+    ("paypal", "paypal.me/ldsands"),
     ("RSS", "https://ldsands.github.io/feeds/all.rss"),
-    ("cc-paypal", "paypal.me/ldsands"),
 )
 
 
@@ -229,7 +229,7 @@ AUTHORS = {
     "Levi Sands": {
         "url": "https://ldsands.github.io/about",
         "blurb": "PhD Candidate in Sociology at the University of Iowa",
-        "avatar": "/images/Levi_Sands_cropped_square.jpg",
+        # "avatar": "/images/Levi_Sands_cropped_square.jpg", TODO:
     },
 }
 
