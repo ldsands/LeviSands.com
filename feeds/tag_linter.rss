@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Levi Sands - Linter</title><link>/</link><description>Personal Blog Website</description><lastBuildDate>Fri, 22 May 2020 14:19:00 +0500</lastBuildDate><item><title>The Best Linter for Black in VS Code</title><link>/blog/2020/03/20/the-best-linter-for-black-in-vs-code/</link><description>
+&lt;p&gt;&lt;img alt="black logo image" src="/images/articles/black_logo.png"/&gt;&lt;/p&gt;
+&lt;p&gt;Forgive the clickbait title. The truth is that any linter can be configured to work well with Black. So any linter when properly configured will be the “best” linter for Black on &lt;span class="caps"&gt;VS&lt;/span&gt; Code. But before I give you the settings for the linter I configured a bit of background.&lt;/p&gt;
+&lt;h2 id="black-and-python-formatting"&gt;Black and Python Formatting&lt;a class="headerlink" href="#black-and-python-formatting" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;When I discovered automatic code formatting last year, I immediately started using it. I quickly found that &lt;a href="https://black.readthedocs.io/en/stable/"&gt;Black&lt;/a&gt; is by far my favorite of these formatters. The options that come with Black are very limited. The developers do this on purpose, to limit the variety in the different coding styles that might exist between individuals.&lt;/p&gt;
+&lt;p&gt;Standardizing everything will be useful in a large group of programmers. I use it partly because I see many styles for formatting when looking for help on the internet. My style developed into this amalgamation of what I had seen on the internet. After adopting Black for all of my code, I would frequently run across errors with the linter (all of them) on &lt;span class="caps"&gt;VS&lt;/span&gt; Code. This was annoying and nothing more. It was however annoying enough for me to track down what I could do to solve it.&lt;/p&gt;
+&lt;h2 id="finding-a-linter-that-works"&gt;Finding a Linter That Works&lt;a class="headerlink" href="#finding-a-linter-that-works" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;After doing some searching I found some instructions on what configurations are need for flake8 to be compatible with Black. While I type my code, I will follow the recommendations of the linter I use. However, when I format the document using Black, many little errors will come up. After tracking down the configurations need to ignore this issue, I entered them into &lt;span class="caps"&gt;VS&lt;/span&gt; Code so I don’t have this issue anymore.&lt;/p&gt;
+&lt;p&gt;You can change the settings through the Settings tab if you prefer, but I will not cover those instructions here. To enter the &lt;code&gt;settings.json&lt;/code&gt; file press &lt;code&gt;ctrl+,&lt;/code&gt; then select the open settings (&lt;span class="caps"&gt;JSON&lt;/span&gt;) icon in the upper right hand corner. Then enter the following into the file:&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt; 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    &lt;span class="s2"&gt;"python.linting.enabled"&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt; &lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="err"&gt;,&lt;/span&gt;
+    &lt;span class="s2"&gt;"python.linting.flake8Enabled"&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt; &lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="err"&gt;,&lt;/span&gt;
+    &lt;span class="s2"&gt;"python.linting.flake8Args"&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;
+        &lt;span class="s2"&gt;"--ignore=E203"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+        &lt;span class="s2"&gt;"--ignore=E266"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+        &lt;span class="s2"&gt;"--ignore=E501"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+        &lt;span class="s2"&gt;"--ignore=W503"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+        &lt;span class="s2"&gt;"--max-line-length=88"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+        &lt;span class="s2"&gt;"--select = B,C,E,F,W,T4,B9"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+        &lt;span class="s2"&gt;"--max-complexity = 18"&lt;/span&gt;
+    &lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="err"&gt;,&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;Not much too it. Enjoy!&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Levi Sands</dc:creator><pubDate>Fri, 20 Mar 2020 12:30:00 +0500</pubDate><guid isPermaLink="false">tag:None,2020-03-20:/blog/2020/03/20/the-best-linter-for-black-in-vs-code/</guid><category>Programming</category><category>Python</category><category>Visual Studio Code</category><category>Linter</category></item></channel></rss>
